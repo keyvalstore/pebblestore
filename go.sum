@@ -43,8 +43,8 @@ github.com/cockroachdb/redact v1.0.8/go.mod h1:BVNblN9mBWFyMyqK1k3AAiSxhvhfK2oOZ
 github.com/cockroachdb/redact v1.1.3 h1:AKZds10rFSIj7qADf0g46UixK8NNLwWTNdCIGS5wfSQ=
 github.com/cockroachdb/redact v1.1.3/go.mod h1:BVNblN9mBWFyMyqK1k3AAiSxhvhfK2oOZZ2lK+dpvRg=
 github.com/cockroachdb/sentry-go v0.6.1-cockroachdb.2/go.mod h1:8BT+cPK6xvFOcRlk0R8eg+OTkcqI6baNH4xAkpiYVvQ=
-github.com/codeallergy/glue v1.1.0 h1:1+EKvwlSdHrYf332w2brxbpZQftdEQS6EKDiCLK6cw0=
-github.com/codeallergy/glue v1.1.0/go.mod h1:7FDCk+rgtr7r51AjDEBcBaZDHHl+TJKKWcTSXV/K8po=
+github.com/codeallergy/glue v1.1.4 h1:g1HWa3lJuSz24ufxUyaE+c0OZvlXEVbECzJe1GiRc4s=
+github.com/codeallergy/glue v1.1.4/go.mod h1:7FDCk+rgtr7r51AjDEBcBaZDHHl+TJKKWcTSXV/K8po=
 github.com/codeallergy/value v1.1.0 h1:dYtmfqGsC2eVin8wtoAVZfT7z+c/TM2+HKK50TeQ09Q=
 github.com/codeallergy/value v1.1.0/go.mod h1:f5Vh6rLIzlG5vX7hi/W7n+1yD2UIbmhOWn5GRajNc94=
 github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
@@ -168,8 +168,8 @@ github.com/kataras/neffos v0.0.14/go.mod h1:8lqADm8PnbeFfL7CLXh1WHw53dG27MC3pgi2
 github.com/kataras/pio v0.0.0-20190103105442-ea782b38602d/go.mod h1:NV88laa9UiiDuX9AhMbDPkGYSPugBOV6yTZB1l2K9Z0=
 github.com/kataras/pio v0.0.2/go.mod h1:hAoW0t9UmXi4R5Oyq5Z4irTbaTsOemSrDGUtaTl7Dro=
 github.com/kataras/sitemap v0.0.5/go.mod h1:KY2eugMKiPwsJgx7+U103YZehfvNGOXURubcGyk0Bz8=
-github.com/keyvalstore/store v1.3.0 h1:x84OdwUiiabtzhIc4yFP4ZSbE2DkKtHy2DSHJQIkVoM=
-github.com/keyvalstore/store v1.3.0/go.mod h1:GT6iXvg7Qh0kLCrFf+gpJELSeykPeL347a7BXP+2NPc=
+github.com/keyvalstore/store v1.3.1 h1:WWsAmj01WevcqhNKTNautiMPk2OfUkkaap21zX9rHUE=
+github.com/keyvalstore/store v1.3.1/go.mod h1:qXXCPUbFM6Bvtgk/rQG48mxuOWx1m3njpdu1/orA2ts=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=

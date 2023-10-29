@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/cockroachdb/pebble v0.0.0-20220708173837-d3484a60444e
 	github.com/codeallergy/value v1.1.0
-	github.com/keyvalstore/store v1.3.0
+	github.com/keyvalstore/store v1.3.1
 	github.com/pkg/errors v0.9.1
 )
 
@@ -16,7 +16,7 @@ require (
 	github.com/cockroachdb/errors v1.9.0 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20211118104740-dabe8e521a4f // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
-	github.com/codeallergy/glue v1.1.0 // indirect
+	github.com/codeallergy/glue v1.1.4 // indirect
 	github.com/getsentry/sentry-go v0.13.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
